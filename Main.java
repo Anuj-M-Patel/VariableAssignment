@@ -1,3 +1,11 @@
+/**
+ * 
+ * @author Anuj Patel
+ * Period 6
+ * Variables Homework
+ *
+ */
+
 public class Main 
 {
 
@@ -12,7 +20,7 @@ public class Main
 	public static void main(String[] args) 
 	{
 		String name = "Anuj";
-		System.out.println(name);
+		System.out.println("Name: " + name);
 		
 		int length = 1;
 		int height = 2;
@@ -22,6 +30,7 @@ public class Main
 		int radius = 1;
 		double circleArea = pi * radius * radius;
 		double circumference = 2 * pi * radius;
+		
 	}
 
 }
